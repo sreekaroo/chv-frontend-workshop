@@ -1,0 +1,9 @@
+.hidden {
+  background-color: transparent;
+  color: transparent;
+  text-decoration: none;
+}
+.hidden:hover {
+background-color: black;
+color: blanchedalmond;
+}
